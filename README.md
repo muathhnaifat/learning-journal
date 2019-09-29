@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+__Welcome to my page__
 
-You can use the [editor on GitHub](https://github.com/muathhnaifat/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Muath AL-Hnaifat , and I wat to talk about growth mindset .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+***growth mindset***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+students believe their abilities and intelligence can be developed with effort, learning, and persistence. Their basic abilities are simply a starting point for their potential. They don't believe everyone is the same, but they hold onto the idea that everyone can become smarter if they try.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I alawys remind my self :
 
-- Bulleted
-- List
+1- Remember that it takes time to learn
 
-1. Numbered
-2. List
+2- Never stop learning. Set a new goal for every one you accomplished.
 
-**Bold** and _Italic_ and `Code` text
+3- Learn from the mistakes of others.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muathhnaifat/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? contact my on my email : muath_hnaifat@yahoo.com
