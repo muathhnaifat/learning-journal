@@ -1,7 +1,9 @@
-__Welcome to my page__
+## Welcome to my page
 
-I'm Muath AL-Hnaifat , and I wat to talk about growth mindset .
+*I'm Muath AL-Hnaifat , and I wat to talk about growth mindset*
 
+
+![](https://www.excelsior.edu/wp-content/uploads/sites/46/2017/03/Growth-Mindset-e1565799493145.png)
 
 ***growth mindset***
 
@@ -10,17 +12,15 @@ students believe their abilities and intelligence can be developed with effort, 
 
 I alawys remind my self :
 
-1- Remember that it takes time to learn
+1. Remember that it takes time to learn
 
-2- Never stop learning. Set a new goal for every one you accomplished.
+1. Never stop learning. Set a new goal for every one you accomplished.
 
-3- Learn from the mistakes of others.
+1. Learn from the mistakes of others.
 
 
 ### Support or Contact
 
-Having trouble with Pages? contact my on my email : muath_hnaifat@yahoo.com
+Having trouble with Pages? contact my on my faceboook account :[click here](https://www.facebook.com/muath_hnaifat)
 
 
-
-000
