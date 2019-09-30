@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-*I'm Muath AL-Hnaifat , and I wat to talk about growth mindset*
+*I'm Muath AL-Hnaifat , and I want to talk about growth mindset*
 
 
 ![](https://www.excelsior.edu/wp-content/uploads/sites/46/2017/03/Growth-Mindset-e1565799493145.png)
