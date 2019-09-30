@@ -2,7 +2,7 @@
 
 + [Markdown](read1.md)
 
-+ [Text editor](read2.md)
++ [Text editor](Read2.md)
 
 + [Git](read3.md)
 
