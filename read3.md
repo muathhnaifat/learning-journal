@@ -1,5 +1,5 @@
 
-## Git 
+## Git   
 
 *Git is an Open Source Distributed Version Control System. Now that’s a lot of words to define Git.*
 
