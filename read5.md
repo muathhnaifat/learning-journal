@@ -23,8 +23,8 @@ The opacity property sets the opacity level for an element.
 
 The opacity-level describes the transparency-level, where 1 is not transparent at all, 0.5 is 50% see-through, and 0 is completely transparent.
 
-## Note
+## CSS3: HSL Colors 
 
-* _You can use upper case or lower case letters to specify hexadecimal values._
-* _Lower case are easier to write. Upper case are easier to read._
+HSL color values are supported in IE9+, Firefox, Chrome, Safari, and in Opera 10+ , HSL stands for hue, saturation, and lightness. 
+HSL color values are specified with: hsl(hue, saturation, lightness).
 
