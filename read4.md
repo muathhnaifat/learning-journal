@@ -1,4 +1,5 @@
 
+ # HTML & CSS
 
 
 ## HTML Layout Elements
@@ -13,7 +14,6 @@ HTML offers several semantic elements that define the different parts of a web p
 <footer> - Defines a footer for a document or a section
 
 
-The <article> tag specifies independent, self-contained content.
 
 
 ## Article
